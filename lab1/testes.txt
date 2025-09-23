@@ -1,4 +1,7 @@
 Descricao do Teste;Texto Claro;Chave
+Teste Simples;Criptografia;UFC
 Teste de Erro no Texto;;12345
 Teste de Erro na Chave;UFC-Quixadá;
-Teste Simples;Criptografia;UFC
+Chave Maior que o Texto;TESTE;UMA CHAVE BEM MAIOR
+Caracteres Especiais e Números;Senha@123!;segredo
+Texto com Acentuacao;Ceará é campeão!;Quixadá
